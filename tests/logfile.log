@@ -1,0 +1,240 @@
+2023-08-06 01:29:45,533 - INFO - utilities.BaseClass - Entering Name Test as Zahed
+2023-08-06 01:29:45,623 - INFO - utilities.BaseClass - Entering EMail Test
+2023-08-06 01:29:45,685 - INFO - utilities.BaseClass - Entering Password Test
+2023-08-06 01:29:45,729 - INFO - utilities.BaseClass - Clicking on the checkbox
+2023-08-06 01:29:45,967 - INFO - utilities.BaseClass - Clicking on the Dropdown
+2023-08-06 01:29:46,020 - INFO - utilities.BaseClass - Clicking on the Radio Button
+2023-08-06 01:29:46,244 - INFO - utilities.BaseClass - Submitting the form
+2023-08-06 01:29:46,493 - INFO - utilities.BaseClass - Getting the Message Text
+2023-08-06 01:29:48,844 - INFO - utilities.BaseClass - Entering Name Test as Zahed
+2023-08-06 01:29:48,844 - INFO - utilities.BaseClass - Entering Name Test as Zahed
+2023-08-06 01:29:48,918 - INFO - utilities.BaseClass - Entering EMail Test
+2023-08-06 01:29:48,918 - INFO - utilities.BaseClass - Entering EMail Test
+2023-08-06 01:29:48,966 - INFO - utilities.BaseClass - Entering Password Test
+2023-08-06 01:29:48,966 - INFO - utilities.BaseClass - Entering Password Test
+2023-08-06 01:29:48,999 - INFO - utilities.BaseClass - Clicking on the checkbox
+2023-08-06 01:29:48,999 - INFO - utilities.BaseClass - Clicking on the checkbox
+2023-08-06 01:29:49,237 - INFO - utilities.BaseClass - Clicking on the Dropdown
+2023-08-06 01:29:49,237 - INFO - utilities.BaseClass - Clicking on the Dropdown
+2023-08-06 01:29:49,501 - INFO - utilities.BaseClass - Clicking on the Radio Button
+2023-08-06 01:29:49,501 - INFO - utilities.BaseClass - Clicking on the Radio Button
+2023-08-06 01:29:49,748 - INFO - utilities.BaseClass - Submitting the form
+2023-08-06 01:29:49,748 - INFO - utilities.BaseClass - Submitting the form
+2023-08-06 01:29:49,987 - INFO - utilities.BaseClass - Getting the Message Text
+2023-08-06 01:29:49,987 - INFO - utilities.BaseClass - Getting the Message Text
+2023-08-06 01:29:51,104 - INFO - utilities.BaseClass - Entering Name Test as Zahed
+2023-08-06 01:29:51,104 - INFO - utilities.BaseClass - Entering Name Test as Zahed
+2023-08-06 01:29:51,104 - INFO - utilities.BaseClass - Entering Name Test as Zahed
+2023-08-06 01:29:51,148 - INFO - utilities.BaseClass - Entering EMail Test
+2023-08-06 01:29:51,148 - INFO - utilities.BaseClass - Entering EMail Test
+2023-08-06 01:29:51,148 - INFO - utilities.BaseClass - Entering EMail Test
+2023-08-06 01:29:51,204 - INFO - utilities.BaseClass - Entering Password Test
+2023-08-06 01:29:51,204 - INFO - utilities.BaseClass - Entering Password Test
+2023-08-06 01:29:51,204 - INFO - utilities.BaseClass - Entering Password Test
+2023-08-06 01:29:51,246 - INFO - utilities.BaseClass - Clicking on the checkbox
+2023-08-06 01:29:51,246 - INFO - utilities.BaseClass - Clicking on the checkbox
+2023-08-06 01:29:51,246 - INFO - utilities.BaseClass - Clicking on the checkbox
+2023-08-06 01:29:51,480 - INFO - utilities.BaseClass - Clicking on the Dropdown
+2023-08-06 01:29:51,480 - INFO - utilities.BaseClass - Clicking on the Dropdown
+2023-08-06 01:29:51,480 - INFO - utilities.BaseClass - Clicking on the Dropdown
+2023-08-06 01:29:51,497 - INFO - utilities.BaseClass - Clicking on the Radio Button
+2023-08-06 01:29:51,497 - INFO - utilities.BaseClass - Clicking on the Radio Button
+2023-08-06 01:29:51,497 - INFO - utilities.BaseClass - Clicking on the Radio Button
+2023-08-06 01:29:51,729 - INFO - utilities.BaseClass - Submitting the form
+2023-08-06 01:29:51,729 - INFO - utilities.BaseClass - Submitting the form
+2023-08-06 01:29:51,729 - INFO - utilities.BaseClass - Submitting the form
+2023-08-06 01:29:51,993 - INFO - utilities.BaseClass - Getting the Message Text
+2023-08-06 01:29:51,993 - INFO - utilities.BaseClass - Getting the Message Text
+2023-08-06 01:29:51,993 - INFO - utilities.BaseClass - Getting the Message Text
+2023-08-06 01:32:28,679 - INFO - test_e2e - Entering Name Test as Zahed
+2023-08-06 01:32:28,761 - INFO - test_e2e - Entering EMail Test
+2023-08-06 01:32:28,808 - INFO - test_e2e - Entering Password Test
+2023-08-06 01:32:28,842 - INFO - test_e2e - Clicking on the checkbox
+2023-08-06 01:32:29,085 - INFO - test_e2e - Clicking on the Dropdown
+2023-08-06 01:32:29,124 - INFO - test_e2e - Clicking on the Radio Button
+2023-08-06 01:32:29,351 - INFO - test_e2e - Submitting the form
+2023-08-06 01:32:29,616 - INFO - test_e2e - Getting the Message Text
+2023-08-06 01:32:30,731 - INFO - test_e2e - Entering Name Test as Zahed
+2023-08-06 01:32:30,731 - INFO - test_e2e - Entering Name Test as Zahed
+2023-08-06 01:32:30,775 - INFO - test_e2e - Entering EMail Test
+2023-08-06 01:32:30,775 - INFO - test_e2e - Entering EMail Test
+2023-08-06 01:32:30,844 - INFO - test_e2e - Entering Password Test
+2023-08-06 01:32:30,844 - INFO - test_e2e - Entering Password Test
+2023-08-06 01:32:30,882 - INFO - test_e2e - Clicking on the checkbox
+2023-08-06 01:32:30,882 - INFO - test_e2e - Clicking on the checkbox
+2023-08-06 01:32:31,107 - INFO - test_e2e - Clicking on the Dropdown
+2023-08-06 01:32:31,107 - INFO - test_e2e - Clicking on the Dropdown
+2023-08-06 01:32:31,359 - INFO - test_e2e - Clicking on the Radio Button
+2023-08-06 01:32:31,359 - INFO - test_e2e - Clicking on the Radio Button
+2023-08-06 01:32:31,622 - INFO - test_e2e - Submitting the form
+2023-08-06 01:32:31,622 - INFO - test_e2e - Submitting the form
+2023-08-06 01:32:31,860 - INFO - test_e2e - Getting the Message Text
+2023-08-06 01:32:31,860 - INFO - test_e2e - Getting the Message Text
+2023-08-06 01:32:32,984 - INFO - test_e2e - Entering Name Test as Zahed
+2023-08-06 01:32:32,984 - INFO - test_e2e - Entering Name Test as Zahed
+2023-08-06 01:32:32,984 - INFO - test_e2e - Entering Name Test as Zahed
+2023-08-06 01:32:33,026 - INFO - test_e2e - Entering EMail Test
+2023-08-06 01:32:33,026 - INFO - test_e2e - Entering EMail Test
+2023-08-06 01:32:33,026 - INFO - test_e2e - Entering EMail Test
+2023-08-06 01:32:33,077 - INFO - test_e2e - Entering Password Test
+2023-08-06 01:32:33,077 - INFO - test_e2e - Entering Password Test
+2023-08-06 01:32:33,077 - INFO - test_e2e - Entering Password Test
+2023-08-06 01:32:33,125 - INFO - test_e2e - Clicking on the checkbox
+2023-08-06 01:32:33,125 - INFO - test_e2e - Clicking on the checkbox
+2023-08-06 01:32:33,125 - INFO - test_e2e - Clicking on the checkbox
+2023-08-06 01:32:33,367 - INFO - test_e2e - Clicking on the Dropdown
+2023-08-06 01:32:33,367 - INFO - test_e2e - Clicking on the Dropdown
+2023-08-06 01:32:33,367 - INFO - test_e2e - Clicking on the Dropdown
+2023-08-06 01:32:33,407 - INFO - test_e2e - Clicking on the Radio Button
+2023-08-06 01:32:33,407 - INFO - test_e2e - Clicking on the Radio Button
+2023-08-06 01:32:33,407 - INFO - test_e2e - Clicking on the Radio Button
+2023-08-06 01:32:33,641 - INFO - test_e2e - Submitting the form
+2023-08-06 01:32:33,641 - INFO - test_e2e - Submitting the form
+2023-08-06 01:32:33,641 - INFO - test_e2e - Submitting the form
+2023-08-06 01:32:33,925 - INFO - test_e2e - Getting the Message Text
+2023-08-06 01:32:33,925 - INFO - test_e2e - Getting the Message Text
+2023-08-06 01:32:33,925 - INFO - test_e2e - Getting the Message Text
+2023-08-06 01:41:12,217 - INFO - test_e2e - Entering Name Test as Zahed
+2023-08-06 01:41:12,276 - INFO - test_e2e - Entering EMail Test
+2023-08-06 01:41:12,319 - INFO - test_e2e - Entering Password Test
+2023-08-06 01:41:12,361 - INFO - test_e2e - Clicking on the checkbox
+2023-08-06 01:41:12,617 - INFO - test_e2e - Clicking on the Dropdown
+2023-08-06 01:41:12,651 - INFO - test_e2e - Clicking on the Radio Button
+2023-08-06 01:41:12,879 - INFO - test_e2e - Submitting the form
+2023-08-06 01:41:13,133 - INFO - test_e2e - Getting the Message Text
+2023-08-06 01:41:14,565 - INFO - test_e2e - Entering Name Test as Zahed
+2023-08-06 01:41:14,565 - INFO - test_e2e - Entering Name Test as Zahed
+2023-08-06 01:41:14,609 - INFO - test_e2e - Entering EMail Test
+2023-08-06 01:41:14,609 - INFO - test_e2e - Entering EMail Test
+2023-08-06 01:41:14,660 - INFO - test_e2e - Entering Password Test
+2023-08-06 01:41:14,660 - INFO - test_e2e - Entering Password Test
+2023-08-06 01:41:14,701 - INFO - test_e2e - Clicking on the checkbox
+2023-08-06 01:41:14,701 - INFO - test_e2e - Clicking on the checkbox
+2023-08-06 01:41:14,948 - INFO - test_e2e - Clicking on the Dropdown
+2023-08-06 01:41:14,948 - INFO - test_e2e - Clicking on the Dropdown
+2023-08-06 01:41:15,215 - INFO - test_e2e - Clicking on the Radio Button
+2023-08-06 01:41:15,215 - INFO - test_e2e - Clicking on the Radio Button
+2023-08-06 01:41:15,476 - INFO - test_e2e - Submitting the form
+2023-08-06 01:41:15,476 - INFO - test_e2e - Submitting the form
+2023-08-06 01:41:15,712 - INFO - test_e2e - Getting the Message Text
+2023-08-06 01:41:15,712 - INFO - test_e2e - Getting the Message Text
+2023-08-06 01:41:17,607 - INFO - test_e2e - Entering Name Test as Zahed
+2023-08-06 01:41:17,607 - INFO - test_e2e - Entering Name Test as Zahed
+2023-08-06 01:41:17,607 - INFO - test_e2e - Entering Name Test as Zahed
+2023-08-06 01:41:17,643 - INFO - test_e2e - Entering EMail Test
+2023-08-06 01:41:17,643 - INFO - test_e2e - Entering EMail Test
+2023-08-06 01:41:17,643 - INFO - test_e2e - Entering EMail Test
+2023-08-06 01:41:17,691 - INFO - test_e2e - Entering Password Test
+2023-08-06 01:41:17,691 - INFO - test_e2e - Entering Password Test
+2023-08-06 01:41:17,691 - INFO - test_e2e - Entering Password Test
+2023-08-06 01:41:17,721 - INFO - test_e2e - Clicking on the checkbox
+2023-08-06 01:41:17,721 - INFO - test_e2e - Clicking on the checkbox
+2023-08-06 01:41:17,721 - INFO - test_e2e - Clicking on the checkbox
+2023-08-06 01:41:17,961 - INFO - test_e2e - Clicking on the Dropdown
+2023-08-06 01:41:17,961 - INFO - test_e2e - Clicking on the Dropdown
+2023-08-06 01:41:17,961 - INFO - test_e2e - Clicking on the Dropdown
+2023-08-06 01:41:17,986 - INFO - test_e2e - Clicking on the Radio Button
+2023-08-06 01:41:17,986 - INFO - test_e2e - Clicking on the Radio Button
+2023-08-06 01:41:17,986 - INFO - test_e2e - Clicking on the Radio Button
+2023-08-06 01:41:18,213 - INFO - test_e2e - Submitting the form
+2023-08-06 01:41:18,213 - INFO - test_e2e - Submitting the form
+2023-08-06 01:41:18,213 - INFO - test_e2e - Submitting the form
+2023-08-06 01:41:18,452 - INFO - test_e2e - Getting the Message Text
+2023-08-06 01:41:18,452 - INFO - test_e2e - Getting the Message Text
+2023-08-06 01:41:18,452 - INFO - test_e2e - Getting the Message Text
+2023-08-06 01:42:10,405 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Entering Name Test as Zahed
+2023-08-06 01:42:10,493 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Entering EMail Test
+2023-08-06 01:42:10,553 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Entering Password Test
+2023-08-06 01:42:10,586 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Clicking on the checkbox
+2023-08-06 01:42:10,823 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Clicking on the Dropdown
+2023-08-06 01:42:10,865 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Clicking on the Radio Button
+2023-08-06 01:42:11,103 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Submitting the form
+2023-08-06 01:42:11,351 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Getting the Message Text
+2023-08-06 01:42:12,481 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Entering Name Test as Zahed
+2023-08-06 01:42:12,481 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Entering Name Test as Zahed
+2023-08-06 01:42:12,526 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Entering EMail Test
+2023-08-06 01:42:12,526 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Entering EMail Test
+2023-08-06 01:42:12,590 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Entering Password Test
+2023-08-06 01:42:12,590 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Entering Password Test
+2023-08-06 01:42:12,634 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Clicking on the checkbox
+2023-08-06 01:42:12,634 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Clicking on the checkbox
+2023-08-06 01:42:12,856 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Clicking on the Dropdown
+2023-08-06 01:42:12,856 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Clicking on the Dropdown
+2023-08-06 01:42:13,107 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Clicking on the Radio Button
+2023-08-06 01:42:13,107 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Clicking on the Radio Button
+2023-08-06 01:42:13,359 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Submitting the form
+2023-08-06 01:42:13,359 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Submitting the form
+2023-08-06 01:42:13,623 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Getting the Message Text
+2023-08-06 01:42:13,623 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Getting the Message Text
+2023-08-06 01:42:14,781 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Entering Name Test as Zahed
+2023-08-06 01:42:14,781 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Entering Name Test as Zahed
+2023-08-06 01:42:14,781 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Entering Name Test as Zahed
+2023-08-06 01:42:14,823 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Entering EMail Test
+2023-08-06 01:42:14,823 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Entering EMail Test
+2023-08-06 01:42:14,823 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Entering EMail Test
+2023-08-06 01:42:14,875 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Entering Password Test
+2023-08-06 01:42:14,875 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Entering Password Test
+2023-08-06 01:42:14,875 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Entering Password Test
+2023-08-06 01:42:14,917 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Clicking on the checkbox
+2023-08-06 01:42:14,917 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Clicking on the checkbox
+2023-08-06 01:42:14,917 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Clicking on the checkbox
+2023-08-06 01:42:15,140 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Clicking on the Dropdown
+2023-08-06 01:42:15,140 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Clicking on the Dropdown
+2023-08-06 01:42:15,140 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Clicking on the Dropdown
+2023-08-06 01:42:15,186 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Clicking on the Radio Button
+2023-08-06 01:42:15,186 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Clicking on the Radio Button
+2023-08-06 01:42:15,186 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Clicking on the Radio Button
+2023-08-06 01:42:15,407 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Submitting the form
+2023-08-06 01:42:15,407 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Submitting the form
+2023-08-06 01:42:15,407 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Submitting the form
+2023-08-06 01:42:15,673 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Getting the Message Text
+2023-08-06 01:42:15,673 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Getting the Message Text
+2023-08-06 01:42:15,673 - INFO - F:\Software_Testing\TestProject\utilities\BaseClass.py - Getting the Message Text
+2023-08-06 01:43:12,630 - INFO - utilities.BaseClass - Entering Name Test as Zahed
+2023-08-06 01:43:12,732 - INFO - utilities.BaseClass - Entering EMail Test
+2023-08-06 01:43:12,793 - INFO - utilities.BaseClass - Entering Password Test
+2023-08-06 01:43:12,832 - INFO - utilities.BaseClass - Clicking on the checkbox
+2023-08-06 01:43:13,072 - INFO - utilities.BaseClass - Clicking on the Dropdown
+2023-08-06 01:43:13,119 - INFO - utilities.BaseClass - Clicking on the Radio Button
+2023-08-06 01:43:13,348 - INFO - utilities.BaseClass - Submitting the form
+2023-08-06 01:43:13,614 - INFO - utilities.BaseClass - Getting the Message Text
+2023-08-06 01:43:15,055 - INFO - utilities.BaseClass - Entering Name Test as Zahed
+2023-08-06 01:43:15,055 - INFO - utilities.BaseClass - Entering Name Test as Zahed
+2023-08-06 01:43:15,143 - INFO - utilities.BaseClass - Entering EMail Test
+2023-08-06 01:43:15,143 - INFO - utilities.BaseClass - Entering EMail Test
+2023-08-06 01:43:15,213 - INFO - utilities.BaseClass - Entering Password Test
+2023-08-06 01:43:15,213 - INFO - utilities.BaseClass - Entering Password Test
+2023-08-06 01:43:15,267 - INFO - utilities.BaseClass - Clicking on the checkbox
+2023-08-06 01:43:15,267 - INFO - utilities.BaseClass - Clicking on the checkbox
+2023-08-06 01:43:15,496 - INFO - utilities.BaseClass - Clicking on the Dropdown
+2023-08-06 01:43:15,496 - INFO - utilities.BaseClass - Clicking on the Dropdown
+2023-08-06 01:43:15,747 - INFO - utilities.BaseClass - Clicking on the Radio Button
+2023-08-06 01:43:15,747 - INFO - utilities.BaseClass - Clicking on the Radio Button
+2023-08-06 01:43:15,999 - INFO - utilities.BaseClass - Submitting the form
+2023-08-06 01:43:15,999 - INFO - utilities.BaseClass - Submitting the form
+2023-08-06 01:43:16,264 - INFO - utilities.BaseClass - Getting the Message Text
+2023-08-06 01:43:16,264 - INFO - utilities.BaseClass - Getting the Message Text
+2023-08-06 01:43:18,197 - INFO - utilities.BaseClass - Entering Name Test as Zahed
+2023-08-06 01:43:18,197 - INFO - utilities.BaseClass - Entering Name Test as Zahed
+2023-08-06 01:43:18,197 - INFO - utilities.BaseClass - Entering Name Test as Zahed
+2023-08-06 01:43:18,260 - INFO - utilities.BaseClass - Entering EMail Test
+2023-08-06 01:43:18,260 - INFO - utilities.BaseClass - Entering EMail Test
+2023-08-06 01:43:18,260 - INFO - utilities.BaseClass - Entering EMail Test
+2023-08-06 01:43:18,318 - INFO - utilities.BaseClass - Entering Password Test
+2023-08-06 01:43:18,318 - INFO - utilities.BaseClass - Entering Password Test
+2023-08-06 01:43:18,318 - INFO - utilities.BaseClass - Entering Password Test
+2023-08-06 01:43:18,359 - INFO - utilities.BaseClass - Clicking on the checkbox
+2023-08-06 01:43:18,359 - INFO - utilities.BaseClass - Clicking on the checkbox
+2023-08-06 01:43:18,359 - INFO - utilities.BaseClass - Clicking on the checkbox
+2023-08-06 01:43:18,595 - INFO - utilities.BaseClass - Clicking on the Dropdown
+2023-08-06 01:43:18,595 - INFO - utilities.BaseClass - Clicking on the Dropdown
+2023-08-06 01:43:18,595 - INFO - utilities.BaseClass - Clicking on the Dropdown
+2023-08-06 01:43:18,618 - INFO - utilities.BaseClass - Clicking on the Radio Button
+2023-08-06 01:43:18,618 - INFO - utilities.BaseClass - Clicking on the Radio Button
+2023-08-06 01:43:18,618 - INFO - utilities.BaseClass - Clicking on the Radio Button
+2023-08-06 01:43:18,847 - INFO - utilities.BaseClass - Submitting the form
+2023-08-06 01:43:18,847 - INFO - utilities.BaseClass - Submitting the form
+2023-08-06 01:43:18,847 - INFO - utilities.BaseClass - Submitting the form
+2023-08-06 01:43:19,125 - INFO - utilities.BaseClass - Getting the Message Text
+2023-08-06 01:43:19,125 - INFO - utilities.BaseClass - Getting the Message Text
+2023-08-06 01:43:19,125 - INFO - utilities.BaseClass - Getting the Message Text
